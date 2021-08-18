@@ -1,0 +1,4 @@
+version: 1
+    
+# Specify the languages you would like to Scan. Default is all Detected
+languages: 'CSS'
